@@ -6,8 +6,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wse</groupId>
-    <artifactId>wse-project</artifactId>
+    <artifactId>DevopsProject</artifactId>
     <version>1.0</version>
-    <packaging>pom</packaging>
+    <packaging>war</packaging>
+
+    <build>
+        <finalName>DevopsProject</finalName>
+    </build>
 
 </project>
